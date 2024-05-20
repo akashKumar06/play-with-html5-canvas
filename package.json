@@ -1,0 +1,18 @@
+{
+  "name": "08---fun-with-html5-canvas",
+  "version": "1.0.0",
+  "description": "Canvas",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Akash Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "core-js": "^3.37.1",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
